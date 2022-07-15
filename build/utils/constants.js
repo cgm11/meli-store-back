@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.LASTNAME = exports.NAME = exports.ITEM_URL = exports.CATEGORIES_URL = exports.ITEMS_URL = void 0;
+const ITEMS_URL = 'https://api.mercadolibre.com/sites/MLA/search?';
+exports.ITEMS_URL = ITEMS_URL;
+const CATEGORIES_URL = 'https://api.mercadolibre.com/categories/';
+exports.CATEGORIES_URL = CATEGORIES_URL;
+const ITEM_URL = 'https://api.mercadolibre.com/items/';
+exports.ITEM_URL = ITEM_URL;
+const NAME = 'Carolina';
+exports.NAME = NAME;
+const LASTNAME = 'García Montoya';
+exports.LASTNAME = LASTNAME;
