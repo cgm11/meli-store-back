@@ -1,6 +1,6 @@
 # Meli Store Back
 
-In this API you are allow to search different products from Mercado Libre apis.
+In this API you are allow to search different products from Mercado Libre api.
 
 ## Endpoints used:
 
